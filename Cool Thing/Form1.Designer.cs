@@ -49,13 +49,14 @@
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.Control;
 			this.ClientSize = new System.Drawing.Size(1902, 1033);
+			this.ControlBox = false;
 			this.Controls.Add(this.axWindowsMediaPlayer1);
 			this.MaximizeBox = false;
 			this.MinimizeBox = false;
 			this.Name = "Form1";
 			this.ShowIcon = false;
 			this.ShowInTaskbar = false;
-			this.Text = "Get Rick Rolled Nerd :)";
+			this.Text = "You\'re Mom";
 			((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).EndInit();
 			this.ResumeLayout(false);
 

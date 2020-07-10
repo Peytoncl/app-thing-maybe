@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,6 +11,7 @@ using System.Windows.Forms;
 
 namespace Cool_Thing
 {
+
 	public partial class Form1 : Form
 	{
 		public Form1()
@@ -19,8 +21,10 @@ namespace Cool_Thing
 
 		private void axWindowsMediaPlayer1_Enter(object sender, EventArgs e)
 		{
-			axWindowsMediaPlayer1.URL = @"\Media\Video.mp4";
+			string filePath = Path.Combine(Environment.CurrentDirectory, @"Media\", "Video.mp4");
+			axWindowsMediaPlayer1.URL = filePath;
 			axWindowsMediaPlayer1.Ctlcontrols.play();
+			Console.WriteLine(filePath);
 
 		}
 	}

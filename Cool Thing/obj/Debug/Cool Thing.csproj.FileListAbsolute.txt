@@ -8,3 +8,8 @@ C:\Users\armyd\Documents\GitHub\app-thing-maybe\Cool Thing\obj\Debug\Cool Thing.
 C:\Users\armyd\Documents\GitHub\app-thing-maybe\Cool Thing\obj\Debug\Cool Thing.csproj.CoreCompileInputs.cache
 C:\Users\armyd\Documents\GitHub\app-thing-maybe\Cool Thing\obj\Debug\Cool Thing.exe
 C:\Users\armyd\Documents\GitHub\app-thing-maybe\Cool Thing\obj\Debug\Cool Thing.pdb
+C:\Users\armyd\Documents\GitHub\app-thing-maybe\Cool Thing\bin\Debug\Interop.WMPLib.dll
+C:\Users\armyd\Documents\GitHub\app-thing-maybe\Cool Thing\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\armyd\Documents\GitHub\app-thing-maybe\Cool Thing\obj\Debug\Interop.WMPLib.dll
+C:\Users\armyd\Documents\GitHub\app-thing-maybe\Cool Thing\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\armyd\Documents\GitHub\app-thing-maybe\Cool Thing\obj\Debug\Cool Thing.csproj.ResolveComReference.cache

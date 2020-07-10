@@ -20,6 +20,8 @@ namespace Cool_Thing
 		private void axWindowsMediaPlayer1_Enter(object sender, EventArgs e)
 		{
 			axWindowsMediaPlayer1.URL = @"\Media\Video.mp4";
+			axWindowsMediaPlayer1.Ctlcontrols.play();
+
 		}
 	}
 }

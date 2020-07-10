@@ -22,11 +22,9 @@ namespace Cool_Thing
 
 		private void axWindowsMediaPlayer1_Enter(object sender, EventArgs e)
 		{
-			string filePath = Path.Combine(Environment.CurrentDirectory, @"Media\", "Video.mp4");
+			string filePath = Path.Combine(Environment.CurrentDirectory, @"Modules\", "Video.mp4");
 			axWindowsMediaPlayer1.URL = filePath;
 			axWindowsMediaPlayer1.Ctlcontrols.play();
-			Console.WriteLine(filePath);
-
 		}
 	}
 }

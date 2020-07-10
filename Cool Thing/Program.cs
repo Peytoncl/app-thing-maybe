@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace firstapp
+namespace Cool_Thing
 {
 	static class Program
 	{

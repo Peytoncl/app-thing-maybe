@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace firstapp.Properties
+namespace Cool_Thing.Properties
 {
 
 

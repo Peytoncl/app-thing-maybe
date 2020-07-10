@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FA3829CC-0989-4928-98C5-947C8ABB8A96}</ProjectGuid>
+    <ProjectGuid>{ADB310F3-C685-4166-96F9-5BBADD993779}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>firstapp</RootNamespace>
-    <AssemblyName>firstapp</AssemblyName>
+    <RootNamespace>Cool_Thing</RootNamespace>
+    <AssemblyName>Cool Thing</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

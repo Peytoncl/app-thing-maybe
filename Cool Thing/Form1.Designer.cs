@@ -1,4 +1,4 @@
-﻿namespace firstapp
+﻿namespace Cool_Thing
 {
 	partial class Form1
 	{
